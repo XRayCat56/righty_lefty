@@ -20,6 +20,8 @@ const SPEED_UP_EVERY = 5;
 const SPEED_UP_FACTOR = 0.85;
 const BALL_VERTICAL_CENTER_PCT = 0.85;
 
+// COMMENT FOR GIT TESTING 
+
 function rectsOverlap(
   ax: number,
   ay: number,
